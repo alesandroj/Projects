@@ -1,0 +1,12 @@
+C:\Users\alesa\OneDrive\Documents\ISM 3232\Jankovic_4\Jankovic_4\bin\Debug\Jankovic_4.exe.config
+C:\Users\alesa\OneDrive\Documents\ISM 3232\Jankovic_4\Jankovic_4\bin\Debug\Jankovic_4.exe
+C:\Users\alesa\OneDrive\Documents\ISM 3232\Jankovic_4\Jankovic_4\bin\Debug\Jankovic_4.pdb
+C:\Users\alesa\OneDrive\Documents\ISM 3232\Jankovic_4\Jankovic_4\obj\Debug\Jankovic_4.csproj.AssemblyReference.cache
+C:\Users\alesa\OneDrive\Documents\ISM 3232\Jankovic_4\Jankovic_4\obj\Debug\Jankovic_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\alesa\OneDrive\Documents\ISM 3232\Jankovic_4\Jankovic_4\obj\Debug\Jankovic_4.Properties.Resources.resources
+C:\Users\alesa\OneDrive\Documents\ISM 3232\Jankovic_4\Jankovic_4\obj\Debug\Jankovic_4.csproj.GenerateResource.cache
+C:\Users\alesa\OneDrive\Documents\ISM 3232\Jankovic_4\Jankovic_4\obj\Debug\Jankovic_4.csproj.CoreCompileInputs.cache
+C:\Users\alesa\OneDrive\Documents\ISM 3232\Jankovic_4\Jankovic_4\obj\Debug\Jankovic_4.exe
+C:\Users\alesa\OneDrive\Documents\ISM 3232\Jankovic_4\Jankovic_4\obj\Debug\Jankovic_4.pdb
+C:\Users\alesa\OneDrive\Documents\ISM 3232\Jankovic_4\Jankovic_4\obj\Debug\Jankovic_4.AboutForm.resources
+C:\Users\alesa\OneDrive\Documents\ISM 3232\Jankovic_4\Jankovic_4\obj\Debug\Jankovic_4.RegistrationForm.resources

@@ -1,0 +1,56 @@
+
+
+Registration Summary
+
+Registration Date: 11/30/2022
+Registrant Name: Alesandro Jankovic
+Email Address: jankovic@usf.edu
+Date of Birth: 10/24/2001
+Status: Director
+
+Class(es) Selected: Cinematography
+Directing
+Lighting
+Producing
+
+Number of Classes Selected: 4
+Price Per Class: $79.95
+Total Registration Price: $319.80
+Payment Type: Check
+Email Receipt Requested: Yes
+
+Registration Summary
+
+Registration Date: 11/30/2022
+Registrant Name: Alesandro Jankovic
+Email Address: alesandrojankovic@gmail.com
+Date of Birth: 10/24/2001
+Status: Animator
+
+Class(es) Selected: 2D Animation
+3D Animation
+Character Design
+Stop Motion
+
+Number of Classes Selected: 4
+Price Per Class: $99.95
+Total Registration Price: $399.80
+Payment Type: Cash
+Email Receipt Requested: No
+
+Registration Summary
+
+Registration Date: 12/02/2022
+Registrant Name: Alesandro Jankovic
+Email Address: jankovic@usf.edu
+Date of Birth: 10/24/2001
+Status: Sound Technician
+
+Class(es) Selected: Sound Design
+
+Number of Classes Selected: 1
+Price Per Class: $79.95
+Total Registration Price: $79.95
+Payment Type: Check
+Email Receipt Requested: Yes
+
