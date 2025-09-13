@@ -1,0 +1,3 @@
+All databases uploaded are detached master files that can be attached to another instance of Microsoft SQL Server Management Studio.
+
+Right click the Databases folder in SQL Server Studio and click Attach, then the database will be uploaded.
